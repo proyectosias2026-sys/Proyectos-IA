@@ -1,1 +1,1 @@
-# Proyectos IA\n\nEste es un repositorio de prueba para proyectos de inteligencia artificial.
+# Proyectos IA Este es un repositorio de prueba para proyectos de inteligencia artificial.
